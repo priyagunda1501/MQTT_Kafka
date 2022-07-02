@@ -1,0 +1,7 @@
+# SOCKET_HOST = 'localhost'
+# SOCKET_PORT = 12345
+
+MQTT_HOST = "0.0.0.0"
+MQTT_PORT = 1881
+MQTT_AUTHENTICATE = False
+
